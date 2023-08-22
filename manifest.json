@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Make Twitter Great Again",
+  "version": "1.0.0",
+  "description": "Reverts Twitter logo to the previous version.",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://twitter.com/*"],
+      "js": ["twitter.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
+
