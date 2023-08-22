@@ -3,7 +3,7 @@
 
 Tired of the mysterious "X" logo on Twitter? Miss the good ol' bird logo? This Chrome extension is here to rescue you! Get ready to bring back the classic Twitter bird logo and show your love for the chirpy nostalgia.
 
-![Header](/images/header.png)
+![Header](/images/preview.png)
 
 ## Features 🎉
 
